@@ -1,0 +1,12 @@
+D:\C#\Sistema de asistencias\Sistema de asistencias\bin\Debug\Sistema de asistencias.exe.config
+D:\C#\Sistema de asistencias\Sistema de asistencias\bin\Debug\Sistema de asistencias.exe
+D:\C#\Sistema de asistencias\Sistema de asistencias\bin\Debug\Sistema de asistencias.pdb
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.csproj.AssemblyReference.cache
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.csproj.SuggestedBindingRedirects.cache
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema_de_asistencias.Properties.Resources.resources
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.csproj.GenerateResource.cache
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.csproj.CoreCompileInputs.cache
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.exe
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema de asistencias.pdb
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema_de_asistencias.Vista.MenuPrincipal.resources
+D:\C#\Sistema de asistencias\Sistema de asistencias\obj\Debug\Sistema_de_asistencias.Vista.Personal.resources
